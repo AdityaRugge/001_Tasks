@@ -223,7 +223,7 @@ static void task1_handler(void* parameters)
 	{
 		printf("%s\n", (char*)parameters);
 		//SEGGER_SYSVIEW_PrintfTarget(msg);
-		//taskYIELD();
+		taskYIELD();
 	}
 
 }
@@ -237,7 +237,7 @@ static void task2_handler(void* parameters)
 		printf("%s\n", (char*)parameters);
 		//snprintf(msg,100,"%s\n", (char*)parameters);
 		//SEGGER_SYSVIEW_PrintfTarget(msg);
-		//taskYIELD();
+		taskYIELD();
 	}
 
 }

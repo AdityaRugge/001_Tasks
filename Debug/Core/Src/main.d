@@ -28,6 +28,13 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h \
  C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/FreeRTOS/include/FreeRTOS.h \
  C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/FreeRTOS/FreeRTOSConfig.h \
+ C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/OS/SEGGER_SYSVIEW_FREERTOS.h \
+ C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/SEGGER/SEGGER_SYSVIEW.h \
+ C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/SEGGER/SEGGER.h \
+ C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/Config/Global.h \
+ C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/SEGGER/SEGGER_SYSVIEW_ConfDefaults.h \
+ C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/Config/SEGGER_SYSVIEW_Conf.h \
+ C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/Config/SEGGER_RTT_Conf.h \
  C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/FreeRTOS/include/projdefs.h \
  C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/FreeRTOS/include/portable.h \
  C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/FreeRTOS/include/deprecated_definitions.h \
@@ -65,6 +72,13 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h:
 C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/FreeRTOS/include/FreeRTOS.h:
 C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/FreeRTOS/FreeRTOSConfig.h:
+C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/OS/SEGGER_SYSVIEW_FREERTOS.h:
+C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/SEGGER/SEGGER_SYSVIEW.h:
+C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/SEGGER/SEGGER.h:
+C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/Config/Global.h:
+C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/SEGGER/SEGGER_SYSVIEW_ConfDefaults.h:
+C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/Config/SEGGER_SYSVIEW_Conf.h:
+C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/Config/SEGGER_RTT_Conf.h:
 C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/FreeRTOS/include/projdefs.h:
 C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/FreeRTOS/include/portable.h:
 C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/FreeRTOS/include/deprecated_definitions.h:

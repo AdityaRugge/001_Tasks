@@ -5696,34 +5696,34 @@ LOAD C:/ST/STM32CubeIDE_1.18.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.ext
  .debug_line    0x000156a8     0x1cc4 ./Third_party/SEGGER/SEGGER/SEGGER_SYSVIEW.o
  .debug_line    0x0001736c      0x65e ./Third_party/SEGGER/SEGGER/Syscalls/SEGGER_RTT_Syscalls_GCC.o
 
-.debug_str      0x00000000    0xdf21e
- .debug_str     0x00000000    0xdf21e ./Core/Src/main.o
-                              0xd463a (size before relaxing)
- .debug_str     0x000df21e    0xcec06 ./Core/Src/stm32f4xx_hal_msp.o
- .debug_str     0x000df21e    0xc85d8 ./Core/Src/stm32f4xx_hal_timebase_tim.o
- .debug_str     0x000df21e    0xc7fa2 ./Core/Src/stm32f4xx_it.o
- .debug_str     0x000df21e     0x9a98 ./Core/Src/syscalls.o
- .debug_str     0x000df21e    0xc7aa0 ./Core/Src/system_stm32f4xx.o
- .debug_str     0x000df21e       0x80 ./Core/Startup/startup_stm32f446retx.o
- .debug_str     0x000df21e    0xc8665 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
- .debug_str     0x000df21e    0xc83bc ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
- .debug_str     0x000df21e    0xc7c1b ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.o
- .debug_str     0x000df21e    0xc7ed9 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
- .debug_str     0x000df21e    0xc7f0c ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
- .debug_str     0x000df21e    0xc8e05 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.o
- .debug_str     0x000df21e    0xc8611 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.o
- .debug_str     0x000df21e     0xed7b ./Third_party/FreeRTOS/list.o
- .debug_str     0x000df21e    0x11288 ./Third_party/FreeRTOS/queue.o
- .debug_str     0x000df21e    0x120f5 ./Third_party/FreeRTOS/tasks.o
- .debug_str     0x000df21e    0x1159a ./Third_party/FreeRTOS/timers.o
- .debug_str     0x000df21e     0xd513 ./Third_party/FreeRTOS/portable/GCC/ARM_CM4F/port.o
- .debug_str     0x000df21e    0x10244 ./Third_party/FreeRTOS/portable/MemMang/heap_4.o
- .debug_str     0x000df21e     0xb3af ./Third_party/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
- .debug_str     0x000df21e     0xffbc ./Third_party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
- .debug_str     0x000df21e     0x7d35 ./Third_party/SEGGER/SEGGER/SEGGER_RTT.o
- .debug_str     0x000df21e       0x7f ./Third_party/SEGGER/SEGGER/SEGGER_RTT_ASM_ARMv7M.o
- .debug_str     0x000df21e     0x9d45 ./Third_party/SEGGER/SEGGER/SEGGER_SYSVIEW.o
- .debug_str     0x000df21e     0x7862 ./Third_party/SEGGER/SEGGER/Syscalls/SEGGER_RTT_Syscalls_GCC.o
+.debug_str      0x00000000    0xdf21f
+ .debug_str     0x00000000    0xdf21f ./Core/Src/main.o
+                              0xd463b (size before relaxing)
+ .debug_str     0x000df21f    0xcec06 ./Core/Src/stm32f4xx_hal_msp.o
+ .debug_str     0x000df21f    0xc85d8 ./Core/Src/stm32f4xx_hal_timebase_tim.o
+ .debug_str     0x000df21f    0xc7fa2 ./Core/Src/stm32f4xx_it.o
+ .debug_str     0x000df21f     0x9a98 ./Core/Src/syscalls.o
+ .debug_str     0x000df21f    0xc7aa0 ./Core/Src/system_stm32f4xx.o
+ .debug_str     0x000df21f       0x80 ./Core/Startup/startup_stm32f446retx.o
+ .debug_str     0x000df21f    0xc8665 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .debug_str     0x000df21f    0xc83bc ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .debug_str     0x000df21f    0xc7c1b ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.o
+ .debug_str     0x000df21f    0xc7ed9 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
+ .debug_str     0x000df21f    0xc7f0c ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
+ .debug_str     0x000df21f    0xc8e05 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.o
+ .debug_str     0x000df21f    0xc8611 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.o
+ .debug_str     0x000df21f     0xed7b ./Third_party/FreeRTOS/list.o
+ .debug_str     0x000df21f    0x11288 ./Third_party/FreeRTOS/queue.o
+ .debug_str     0x000df21f    0x120f5 ./Third_party/FreeRTOS/tasks.o
+ .debug_str     0x000df21f    0x1159a ./Third_party/FreeRTOS/timers.o
+ .debug_str     0x000df21f     0xd513 ./Third_party/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_str     0x000df21f    0x10244 ./Third_party/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_str     0x000df21f     0xb3af ./Third_party/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
+ .debug_str     0x000df21f     0xffbc ./Third_party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+ .debug_str     0x000df21f     0x7d35 ./Third_party/SEGGER/SEGGER/SEGGER_RTT.o
+ .debug_str     0x000df21f       0x7f ./Third_party/SEGGER/SEGGER/SEGGER_RTT_ASM_ARMv7M.o
+ .debug_str     0x000df21f     0x9d45 ./Third_party/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .debug_str     0x000df21f     0x7862 ./Third_party/SEGGER/SEGGER/Syscalls/SEGGER_RTT_Syscalls_GCC.o
 
 .comment        0x00000000       0x43
  .comment       0x00000000       0x43 ./Core/Src/main.o

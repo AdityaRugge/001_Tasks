@@ -44,7 +44,7 @@
 /* Private variables ---------------------------------------------------------*/
 
 /* USER CODE BEGIN PV */
-#define DWT_CTRL    (*(volatile uint32_t*)0xE000100)
+#define DWT_CTRL    (*(volatile uint32_t*)0xE0001000)
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/

@@ -2,7 +2,7 @@ Third_party/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o: \
  ../Third_party/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.c \
  C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/FreeRTOS/include/FreeRTOS.h \
  C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/FreeRTOS/FreeRTOSConfig.h \
- C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/OS/SEGGER_SYSVIEW_FREERTOS.h \
+ C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.h \
  C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/SEGGER/SEGGER_SYSVIEW.h \
  C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/SEGGER/SEGGER.h \
  C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/Config/Global.h \
@@ -16,7 +16,7 @@ Third_party/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o: \
  C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/FreeRTOS/include/mpu_wrappers.h
 C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/FreeRTOS/include/FreeRTOS.h:
 C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/FreeRTOS/FreeRTOSConfig.h:
-C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/OS/SEGGER_SYSVIEW_FREERTOS.h:
+C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.h:
 C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/SEGGER/SEGGER_SYSVIEW.h:
 C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/SEGGER/SEGGER.h:
 C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/Config/Global.h:

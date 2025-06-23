@@ -1,7 +1,7 @@
 Third_party/FreeRTOS/croutine.o: ../Third_party/FreeRTOS/croutine.c \
  C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/FreeRTOS/include/FreeRTOS.h \
  C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/FreeRTOS/FreeRTOSConfig.h \
- C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/OS/SEGGER_SYSVIEW_FREERTOS.h \
+ C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.h \
  C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/SEGGER/SEGGER_SYSVIEW.h \
  C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/SEGGER/SEGGER.h \
  C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/Config/Global.h \
@@ -18,7 +18,7 @@ Third_party/FreeRTOS/croutine.o: ../Third_party/FreeRTOS/croutine.c \
  C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/FreeRTOS/include/croutine.h
 C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/FreeRTOS/include/FreeRTOS.h:
 C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/FreeRTOS/FreeRTOSConfig.h:
-C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/OS/SEGGER_SYSVIEW_FREERTOS.h:
+C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.h:
 C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/SEGGER/SEGGER_SYSVIEW.h:
 C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/SEGGER/SEGGER.h:
 C:/Users/Aditya/Desktop/RTOS/RTOS-workspace/001_Tasks/Third_party/SEGGER/Config/Global.h:
